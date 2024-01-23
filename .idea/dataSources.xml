@@ -13,5 +13,14 @@
         </library>
       </libraries>
     </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="99d6f977-442d-4b3f-b5f0-1ff612e8b9f4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/mysite/settings.py</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\stegr\PycharmProjects\mysite\db.sqlite3</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
